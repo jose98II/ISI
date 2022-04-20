@@ -4,3 +4,22 @@ https://github.com/jose99II/ISI (general)
 
 clonar repositorio 
 git clone url
+
+muestra las ramas
+git branch
+
+movernos de rama
+git checkout nombre
+
+crear rama
+git branch nombre
+
+git add .
+agregar todas las carpetas en esa carpeta
+
+git status
+estado de los archivos
+
+git push origin nombre
+para subir archivos
+

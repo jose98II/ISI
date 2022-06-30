@@ -1,6 +1,7 @@
 git:
 
 https://github.com/jose99II/ISI (general)
+genro
 
 clonar repositorio 
 git clone url
